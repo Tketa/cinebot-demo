@@ -1,0 +1,1 @@
+Hey there ! I'm ParisCineBot, the intelligent bot that helps you quickly find movie showtimes in theaters in Paris! Just type /showtimes **your query** to get the showtimes. You can also use @pariscinebot in a conversation with a friend!
